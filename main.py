@@ -1,9 +1,5 @@
 import roblox, asyncio, json, re
 
-print('----Roblox trade bot----')
-print('   Made By: iranathan\n\n')
-
-
 async def best_price(e):
     price = 0
     for item in e:
